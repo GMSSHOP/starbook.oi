@@ -1,0 +1,17 @@
+
+h1{
+    font-size: 30px;
+
+}
+a{
+    text-decoration: none;
+}
+nav div{
+    display: flex;
+    align-content: center;
+    align-content: space-between;
+    justify-content: space-between;
+    background-color:rgb(224, 181, 234) ;
+}
+
+    

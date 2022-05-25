@@ -1,6 +1,6 @@
-
 h1{
-    text-align: center;
+position: relative;
+top: -150px;
 }
 div{
     text-align: center;
@@ -11,4 +11,9 @@ button{
     position: relative;
     top: 200px;
     margin-left: 233px;
+}
+.retour{
+    position: relative;
+    top: 200px;
+    margin-left: -5px;
 }

@@ -1,0 +1,31 @@
+
+header{
+    text-decoration: none;
+    display: flex;
+    align-content: space-between;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(216, 134, 235);
+}
+h1{
+    font-size: 20px;
+
+}
+a{
+    text-decoration: none;
+}
+nav div{
+    display: flex;
+    align-content: center;
+    align-content: space-between;
+    justify-content: space-between;
+    background-color:rgb(224, 181, 234) ;
+}
+menu{
+    display: block;
+    text-align: left;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-left: 1000px;
+}
+    
